@@ -1,0 +1,14 @@
+target = "cuda"
+
+Using device: cuda
+ Password found: cuda
+
+target = "Test"
+
+Using device: cuda
+ Password not found
+
+target = "3241"
+
+Using device: cuda
+ Password not found
