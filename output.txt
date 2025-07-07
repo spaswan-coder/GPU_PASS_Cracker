@@ -1,3 +1,6 @@
+link:-https://colab.research.google.com/drive/18NN-Z_B3TQSUmq6iXRe-hO2KSifUjI_o#scrollTo=FIAe5vlW9Zto&line=10&uniqifier=1
+
+
 target = "cuda"
 
 Using device: cuda
